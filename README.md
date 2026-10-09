@@ -1,11 +1,18 @@
-# Employee Relief Distribution System
+# Christmas Grocery Release 2026
 
-Orbit-first, mobile-friendly relief distribution demo for employees.
+Digital employee Christmas grocery distribution system.
 
-## Demo flow
-Login → Employee Verification → Relief Allocation → Scheduling → Digital Queue → Claim & Release → Inventory → Reports & Audit.
+## Features
+- Employee masterlist search
+- Eligibility verification
+- Grocery package entitlement
+- Digital release confirmation
+- Duplicate-release protection
+- Inventory tracking
+- Unclaimed employee monitoring
+- Department reports
+- Release history and audit trail
+- CSV export
+- Mobile-first layout
 
-The app is a static GitHub Pages-ready prototype. Demo state is browser-local and is not a production authentication/database implementation.
-
-## Run
-Open `index.html` locally, or enable GitHub Pages from the repository's main branch/root.
+The site is designed to replace paper or digital stubs with a verified employee entitlement and release workflow.
